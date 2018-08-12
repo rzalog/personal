@@ -17,6 +17,10 @@
     }
 } */
 
+html body {
+    background-color: rgb(225, 241, 255);
+}
+
 .top-header {
     margin-top: 0;
 }
