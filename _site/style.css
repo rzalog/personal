@@ -36,6 +36,11 @@ html body {
 
 @media screen and (max-width: 768px) {
     .custom-container {
-        margin: 2% 2%;
+        margin: 3% 3%;
+    }
+
+    .my-pic {
+        margin-top: 15px;
+        margin-bottom: 15px;
     }
 }
