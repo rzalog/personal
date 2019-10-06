@@ -1,3 +1,3 @@
 # Personal website
 
-Technically v2 ;).
+Hosted with Netlify.
